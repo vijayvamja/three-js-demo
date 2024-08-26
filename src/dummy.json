@@ -1,0 +1,299 @@
+[
+  {
+    "classId": 0,
+    "classLabel": "nose",
+    "confidence": 0.999,
+    "id": 191938,
+    "x": 617.703,
+    "y": 69.135,
+    "z": 253.281
+  },
+  {
+    "classId": 1,
+    "classLabel": "left eye (inner)",
+    "confidence": 0.999,
+    "id": 191939,
+    "x": 624.634,
+    "y": 62.998,
+    "z": 292.474
+  },
+  {
+    "classId": 2,
+    "classLabel": "left eye",
+    "confidence": 0.999,
+    "id": 191940,
+    "x": 628.941,
+    "y": 63.814,
+    "z": 292.291
+  },
+  {
+    "classId": 3,
+    "classLabel": "left eye (outer)",
+    "confidence": 0.999,
+    "id": 191941,
+    "x": 633.307,
+    "y": 64.98,
+    "z": 292.319
+  },
+  {
+    "classId": 4,
+    "classLabel": "right eye (inner)",
+    "confidence": 0.999,
+    "id": 191942,
+    "x": 610.177,
+    "y": 61.768,
+    "z": 288.488
+  },
+  {
+    "classId": 5,
+    "classLabel": "right eye",
+    "confidence": 0.999,
+    "id": 191943,
+    "x": 605.558,
+    "y": 61.888,
+    "z": 288.174
+  },
+  {
+    "classId": 6,
+    "classLabel": "right eye (outer)",
+    "confidence": 0.999,
+    "id": 191944,
+    "x": 600.795,
+    "y": 61.813,
+    "z": 288.132
+  },
+  {
+    "classId": 7,
+    "classLabel": "left ear",
+    "confidence": 0.999,
+    "id": 191945,
+    "x": 637.121,
+    "y": 77.084,
+    "z": 428.693
+  },
+  {
+    "classId": 8,
+    "classLabel": "right ear",
+    "confidence": 0.999,
+    "id": 191946,
+    "x": 592.405,
+    "y": 72.898,
+    "z": 409.861
+  },
+  {
+    "classId": 9,
+    "classLabel": "mouth (left)",
+    "confidence": 1,
+    "id": 191947,
+    "x": 624.904,
+    "y": 85.589,
+    "z": 300.156
+  },
+  {
+    "classId": 10,
+    "classLabel": "mouth (right)",
+    "confidence": 0.999,
+    "id": 191948,
+    "x": 607.747,
+    "y": 84.505,
+    "z": 292.278
+  },
+  {
+    "classId": 11,
+    "classLabel": "left shoulder",
+    "confidence": 0.999,
+    "id": 191949,
+    "x": 671.925,
+    "y": 159.28,
+    "z": 418.516
+  },
+  {
+    "classId": 12,
+    "classLabel": "right shoulder",
+    "confidence": 0.999,
+    "id": 191950,
+    "x": 540.92,
+    "y": 158.336,
+    "z": 387.952
+  },
+  {
+    "classId": 13,
+    "classLabel": "left elbow",
+    "confidence": 0.999,
+    "id": 191951,
+    "x": 723.987,
+    "y": 271.603,
+    "z": 236.647
+  },
+  {
+    "classId": 14,
+    "classLabel": "right elbow",
+    "confidence": 0.999,
+    "id": 191952,
+    "x": 507.706,
+    "y": 262.672,
+    "z": 167.647
+  },
+  {
+    "classId": 15,
+    "classLabel": "left wrist",
+    "confidence": 0.999,
+    "id": 191953,
+    "x": 737.224,
+    "y": 217.475,
+    "z": -79.074
+  },
+  {
+    "classId": 16,
+    "classLabel": "right wrist",
+    "confidence": 0.999,
+    "id": 191954,
+    "x": 525.203,
+    "y": 214.14,
+    "z": -115.302
+  },
+  {
+    "classId": 17,
+    "classLabel": "left pinky",
+    "confidence": 0.999,
+    "id": 191955,
+    "x": 739.577,
+    "y": 200.002,
+    "z": -136.182
+  },
+  {
+    "classId": 18,
+    "classLabel": "right pinky",
+    "confidence": 0.999,
+    "id": 191956,
+    "x": 531.737,
+    "y": 201.772,
+    "z": -177.144
+  },
+  {
+    "classId": 19,
+    "classLabel": "left index",
+    "confidence": 0.999,
+    "id": 191957,
+    "x": 741.169,
+    "y": 186.17,
+    "z": -135.073
+  },
+  {
+    "classId": 20,
+    "classLabel": "right index",
+    "confidence": 0.999,
+    "id": 191958,
+    "x": 532.159,
+    "y": 183.47,
+    "z": -166.638
+  },
+  {
+    "classId": 21,
+    "classLabel": "left thumb",
+    "confidence": 0.999,
+    "id": 191959,
+    "x": 734.015,
+    "y": 192.672,
+    "z": -85.994
+  },
+  {
+    "classId": 22,
+    "classLabel": "right thumb",
+    "confidence": 0.999,
+    "id": 191960,
+    "x": 533.01,
+    "y": 186.554,
+    "z": -121.302
+  },
+  {
+    "classId": 23,
+    "classLabel": "left hip",
+    "confidence": 0.999,
+    "id": 191961,
+    "x": 650.998,
+    "y": 305.882,
+    "z": 16.843
+  },
+  {
+    "classId": 24,
+    "classLabel": "right hip",
+    "confidence": 0.999,
+    "id": 191962,
+    "x": 562.639,
+    "y": 303.247,
+    "z": -17.554
+  },
+  {
+    "classId": 25,
+    "classLabel": "left knee",
+    "confidence": 0.999,
+    "id": 191963,
+    "x": 722.144,
+    "y": 428.958,
+    "z": -311.245
+  },
+  {
+    "classId": 26,
+    "classLabel": "right knee",
+    "confidence": 0.999,
+    "id": 191964,
+    "x": 542.938,
+    "y": 431.094,
+    "z": -340.719
+  },
+  {
+    "classId": 27,
+    "classLabel": "left ankle",
+    "confidence": 0.999,
+    "id": 191965,
+    "x": 704.601,
+    "y": 642.595,
+    "z": -340.049
+  },
+  {
+    "classId": 28,
+    "classLabel": "right ankle",
+    "confidence": 0.999,
+    "id": 191966,
+    "x": 542.385,
+    "y": 637.594,
+    "z": -414.911
+  },
+  {
+    "classId": 29,
+    "classLabel": "left heel",
+    "confidence": 0.999,
+    "id": 191967,
+    "x": 689.455,
+    "y": 680.892,
+    "z": -352.157
+  },
+  {
+    "classId": 30,
+    "classLabel": "right heel",
+    "confidence": 0.998,
+    "id": 191968,
+    "x": 548.383,
+    "y": 674.89,
+    "z": -430.009
+  },
+  {
+    "classId": 31,
+    "classLabel": "left foot index",
+    "confidence": 0.994,
+    "id": 191969,
+    "x": 726.656,
+    "y": 694.313,
+    "z": -545.481
+  },
+  {
+    "classId": 32,
+    "classLabel": "right foot index",
+    "confidence": 0.986,
+    "id": 191970,
+    "x": 540.227,
+    "y": 688.197,
+    "z": -632.111
+  }
+]

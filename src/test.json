@@ -1,0 +1,82 @@
+[
+  {
+    "classId": 3,
+    "classLabel": "left ear",
+    "confidence": 0.63,
+    "id": 525779,
+    "x": 600.962,
+    "y": 9.646
+  },
+  {
+    "classId": 4,
+    "classLabel": "right ear",
+    "confidence": 0.722,
+    "id": 525780,
+    "x": 499.23,
+    "y": 24.355
+  },
+  {
+    "classId": 5,
+    "classLabel": "left shoulder",
+    "confidence": 0.852,
+    "id": 525781,
+    "x": 685.785,
+    "y": 118.365
+  },
+  {
+    "classId": 6,
+    "classLabel": "right shoulder",
+    "confidence": 0.932,
+    "id": 525782,
+    "x": 464.514,
+    "y": 168.269
+  },
+  {
+    "classId": 7,
+    "classLabel": "left elbow",
+    "confidence": 0.867,
+    "id": 525783,
+    "x": 727.69,
+    "y": 312.08
+  },
+  {
+    "classId": 8,
+    "classLabel": "right elbow",
+    "confidence": 0.849,
+    "id": 525784,
+    "x": 450.188,
+    "y": 353.349
+  },
+  {
+    "classId": 9,
+    "classLabel": "left wrist",
+    "confidence": 0.95,
+    "id": 525785,
+    "x": 760.257,
+    "y": 485.336
+  },
+  {
+    "classId": 10,
+    "classLabel": "right wrist",
+    "confidence": 0.794,
+    "id": 525786,
+    "x": 441.574,
+    "y": 507.039
+  },
+  {
+    "classId": 11,
+    "classLabel": "left hip",
+    "confidence": 0.898,
+    "id": 525787,
+    "x": 670.339,
+    "y": 471.516
+  },
+  {
+    "classId": 12,
+    "classLabel": "right hip",
+    "confidence": 0.915,
+    "id": 525788,
+    "x": 524.5,
+    "y": 484.167
+  }
+]
